@@ -18,11 +18,10 @@
     <img class="bgvid inner" src="{{ ('img/gipsy_in_the_woods.jpg') }}">
     
     <div class="box">
-      <h1>Login</h1>
+      <h1>Masok</h1>
       <input type="text" placeholder="Username"/>
       <input type="text" placeholder="Password"/>
-      <button>Login</button>
-      <p>Not a member? <span>Sign Up</span></p>
+      <button>Masuk</button>
     </div>
   </div>
 </div>
