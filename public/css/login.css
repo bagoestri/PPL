@@ -17,7 +17,7 @@ body{
 }
 .inner-container{
   width:400px;
-  height:400px;
+  height:350px;
   position:absolute;
   top:calc(50vh - 200px);
   left:calc(50vw - 200px);
@@ -70,12 +70,4 @@ body{
 }
 .box button:active{
   background:#27ae60;
-}
-.box p{
-  font-size:18px;
-  text-align:center;
-}
-.box p span{
-  cursor:pointer;
-  color:green;
 }
